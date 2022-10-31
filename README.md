@@ -4,7 +4,8 @@
 A great census of a collection of anomalies.
 <br>In the name of the anomalous god Anamol.
 <br>Praise Anamol, or you will meet a fate worse than death.
-![anomalicon](https://user-images.githubusercontent.com/50903186/198905259-03932d6a-7440-4c27-92aa-02488e2d13c0.png)
+
+<br><img class="fit-picture" src="https://github.com/Raiguri/Anomalicon/blob/main/img/anomaliconR.png?raw=true" height="256">
 
 Shield: [![CC BY-SA 3.0][cc-by-sa-shield]][cc-by-sa]
 
